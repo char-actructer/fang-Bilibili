@@ -31,9 +31,9 @@ fullScreenControl.addEventListener('cancelfullscreen', () => {
 video.addEventListener('fullscreen', () => {
 	console.log('is fullscreen !!!')
 })
-video.addBarrage(new Super.Barrage('第六组实训项目弹幕', {
+video.addBarrage(new Super.Barrage('冲冲冲！！！', {
 	color: 'red',
 	fontSize:'30px',
 }))
-video.addBarrage('第六组~~~~~~')
+video.addBarrage('太强了趴~~~~~~')
 video.addBarrage('针不戳！！！！！！')
